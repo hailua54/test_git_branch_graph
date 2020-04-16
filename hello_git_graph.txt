@@ -1,0 +1,8 @@
+// init hello_git_graph.txt's content ---------------------------------------------------------------
+Tip:
+    _ for faster sourcetree running on window: choose the file option: 'modified files, sorted by file status'
+    _ to reset a modified file: select the file, right click -> Log Selected -> select a commit -> right click -> reset to that commit
+    _ to commit a modified file: 
+        1. select the file in unstaged panel -> click on 'stage selected' button to stage the file
+        2. select the file in staged panel-> right click -> commit
+// ---------------------------------------------------------------------------------------------------
